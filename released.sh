@@ -6,7 +6,7 @@ set -ex
 
 rm -rf released
 mkdir released
-cp -r Cargo.toml Cargo.lock README.md src released
+cp -r Cargo.toml Cargo.lock README.md src font*/LICENSE.txt released
 rustc build.rs
 OUT_DIR=released/src ./build
 rm build
