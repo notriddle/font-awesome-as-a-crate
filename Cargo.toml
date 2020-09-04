@@ -5,4 +5,6 @@ version = "0.1.0"
 authors = ["Michael Howell <michael@notriddle.com>", "Travis Chase", "Dave Gandy", "Rob Madole", "Jory Raphael", "Geremia Taglialatela", "Brian Talbot", "Mike Wilkerson", "Fonticons Inc <hello@fontawesome.com>"]
 edition = "2018"
 license = "CC-BY-4.0 AND MIT"
+description = "Font Awesome Free, packaged as a crate"
+repository = "https://github.com/notriddle/font-awesome-as-a-crate"
 
